@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('hello/{id?}/{pass?}', 'HelloController@index');
+Route::get();
